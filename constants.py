@@ -1,0 +1,1 @@
+BASE_URL = 'https://www.booking.com/index.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaGyIAQGYAQm4ARfIAQzYAQHoAQGIAgGoAgO4ApyB86cGwAIB0gIkYTkxYzA2NjgtMDkwOS00NzYyLTk5NGUtYzMxM2E5YjIxOTQ42AIF4AIB&sid=358d59147437dabc9d8b829f91c086d4&keep_landing=1&sb_price_type=total&'
